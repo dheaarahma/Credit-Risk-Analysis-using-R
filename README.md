@@ -6,3 +6,7 @@ Tujuan Project: Membuat model analisa risiko kredit dan membuat model prediksi u
 Model: Decision Tree algoritma C5.0.
 
 Data: Data yang digunakan terdiri dari 900 baris
+
+Untuk pembahasan project ini teman-teman bisa lihat di:
+
+https://medium.com/@d_arahma/penerapan-data-science-dalam-credit-risk-analysis-494428ad26f4
